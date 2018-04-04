@@ -24,7 +24,3 @@ Baixar o plugin e coloque em wp-content/plugins/ e ative pelo painel.
 = 1.0 =
 - Custom post type Corrida
 - Menu de Corrida
-
-Núcleo Montanha Praça da Matriz Joaquim Egídio
-Núcleo Universidade Ciclo Básico II – Unicamp
-Núcleo Lagoa P7 Lagoa do Taquaral
